@@ -12,9 +12,13 @@ Also use your own folder to upload anything you think should be used for the ser
 # How to download stuff
 1.) Click on the file(s) you want to download
       -If downloading a .bls make sure to download the picture along with it-
+
 2.)click download/View RAW
+
 3.)Right click - Save AS
-4.) Change it to the correct file format (like .bls)
+
+4.) Change it to the correct file format (like nameofthing.bls)
+
 5.) Put into the correct blockland folder (Like saves)
 
 If you get an error message, dont go forward with it, just exit it and contact me
