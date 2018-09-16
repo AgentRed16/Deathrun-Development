@@ -9,7 +9,7 @@ Also use your own folder to upload anything you think should be used for the ser
 
 -----------------------------------------------------------------------------------------------------
 
-###Required Addons
+Required Addons-
       https://www.dropbox.com/s/y2j4eu2ccuqfasx/Addons%28Extract%20these%29.zip?dl=0
 
 
