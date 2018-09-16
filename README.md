@@ -10,9 +10,14 @@ Also use your own folder to upload anything you think should be used for the ser
 
 -----------------------------------------------------------------------------------------------------
 # How to download stuff
--Click on the file you want to download
--click download
--Right click - Save AS
--Change it to the correct file format (like .bls)
+Click on the file you want to download
+
+click download
+
+Right click - Save AS
+
+Change it to the correct file format (like .bls)
+
 save that
+
 If you get an error message, dont go forward with it, just exit it and contact me
