@@ -6,6 +6,9 @@ IF this github is shown to the public (non developers/veterans).. you will loose
 **_DO NOT re-upload maps to the MAPS Folder_, use your own developer folder under Developers(USERS) to upload modified versions of the saves that you did**
 
 Also use your own folder to upload anything you think should be used for the server and stuff.
+
+-----------------------------------------------------------------------------------------------------
+
 ###Required Addons
       https://www.dropbox.com/s/y2j4eu2ccuqfasx/Addons%28Extract%20these%29.zip?dl=0
 
