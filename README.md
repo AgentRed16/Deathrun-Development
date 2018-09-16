@@ -9,7 +9,7 @@ Also use your own folder to upload anything you think should be used for the ser
 
 
 -----------------------------------------------------------------------------------------------------
-How to download stuff..
+# How to download stuff
 -Click on the file you want to download
 -click download
 -Right click - Save AS
