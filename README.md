@@ -10,8 +10,8 @@ Required Addons-
 
 
 -----------------------------------------------------------------------------------------------------
-# How to download stuff - Ill make it automatic in the future, but until then you will be needing to do this manually.
-If i ever update it.
+# How to download stuff.
+-- Ill make it automatic in the future, but until then you will be needing to do this manually. If i ever update it.
 1.) Click on the file(s) you need to download
       -If downloading a .bls make sure to download the picture along with it-
 
